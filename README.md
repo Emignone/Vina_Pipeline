@@ -10,9 +10,8 @@ En este repositorio van a encontrar como prepara los archivos para correr vina, 
 ---
 
 
-- [Preparacion de datos](docs/1_Receptor_and_ligand_prep.md)
-- [Pipeline general](docs/2_Main_pipeline_DOCK6.md)
-- [Post procesamiento](docs/3_Post_Procesamiento.md)
+- [Preparacion de datos](docs/1.Prepare_inputs.md)
+- [Post procesamiento](docs/2.Prepare_output_sdf.md)
 
 
 ---
